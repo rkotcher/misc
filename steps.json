@@ -1,7 +1,12 @@
-[{
-  title: 'Step 1',
-  url: 'www.s3.image.com',
-},{
-  title: 'Step 2',
-  url: 'www.s3.image2.com',
-}]
+[
+  {
+    id: 0,
+    title: 'Step 1',
+    url: 'www.s3.image.com',
+  },
+  {
+    id: 1,
+    title: 'Step 2',
+    url: 'www.s3.image2.com',
+  },
+]
